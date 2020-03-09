@@ -1,0 +1,29 @@
+University:
+    - Student:
+        name: Alice
+    - Student:
+        name: Bob
+    - Module:
+        name: MODE
+        credits: 10
+    - Module:
+        name: PRBX
+        credits: 40
+      
+# Can also be represented as the following:
+#
+# University:
+#     -
+#         Student:
+#             - {name: Alice}
+#     -
+#         Student:
+#             - {name: Bob}
+#     -
+#         Module:
+#             - {name: MODE}
+#             - {credits: 10}
+#     -
+#         Module:
+#             - {name: PRBX}
+#             - {credits: 40}

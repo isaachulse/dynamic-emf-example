@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ASCII"?>
+<university:University xmlns:university="http://io.dimitris.simpleresource.universitydsl.ecore">
+  <students firstName="Alice" lastName="Bobson"/>
+  <students firstName="Bob" lastName="Alison"/>
+  <modules name="PRBX" credits="40"/>
+  <modules name="MODE" credits="10"/>
+</university:University>

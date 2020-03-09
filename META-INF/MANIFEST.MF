@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DynamicEmfExample
+Bundle-SymbolicName: com.isaachulse.dynamicemfexample
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: com.isaachulse.dynamicemfexample
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.eclipse.emf.ecore,
+ org.eclipse.emf.ecore.xmi
